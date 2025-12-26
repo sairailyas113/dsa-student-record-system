@@ -36,9 +36,7 @@ using any external database.
 - Frontend User Interface
 - Google Colab
 
-## Demo
-📸 Screenshots / 🎥 Demo video of the project working  
-(Add screenshots or video link here)
+
 
 ## Supervision
 "This project was developed for the Data Structures and Algorithms (DSA) course
